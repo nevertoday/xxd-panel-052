@@ -1,5 +1,5 @@
 interface:
-  display_name: "🦁 XXD Panel 052"
+  display_name: "/xxd-panel-052"
   short_description: "Build airy handcrafted miniature paper-craft landscapes"
   default_prompt: "Use $xxd-panel-052 with my photograph, ask for modes and copy settings, then create fresh raster outputs."
 policy:
