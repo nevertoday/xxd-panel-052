@@ -34,7 +34,18 @@ Rebuild the most recognisable source subject and limited supported environment a
 
 These samples demonstrate the 052 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 052 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Let a handcrafted miniature world float along one landscape line |
+| **Recognizable signature** | PAPER-CRAFT MINIATURE · HORIZONTAL FLOATING STRIP · HANDMADE MATERIAL · AIRY COOL BLUE · GENEROUS SPACE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
 
@@ -44,7 +55,7 @@ lock identity, silhouette, pose, direction, and relation → preserve three cues
 
 If an unrelated photograph could replace the source without materially changing recognition, model construction, support, strip silhouette, material, balance, colour, whitespace, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - Preserve at least three source-specific cues across silhouette, proportion, pose, direction, action, structure, colour, material, or relation.
 - Build one dominant primary miniature and limited source-supported models, all seated on one long, narrow, lightweight horizontal floating strip.
