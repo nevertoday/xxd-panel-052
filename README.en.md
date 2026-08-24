@@ -14,26 +14,6 @@
 
 Rebuild the most recognisable source subject and limited supported environment as paper, cardstock, soft-clay, and thin-wood miniatures on one long floating landscape strip. Authentic craft detail, intimate macro light, and pale open space create a premium art-installation presence.
 
-## Why this Skill exists
-
-The style is source-dependent, not a decorative preset. Its operative transformation is:
-
-```text
-lock identity, silhouette, pose, direction, and relation → preserve three cues → select one primary subject and limited supported elements → rebuild paper, cardstock, soft-clay, and thin-wood miniatures → place them on one long horizontal floating strip → establish scale depth, overlap, and calm balance → reveal authentic craft through macro light → retain airy cool blue and generous space → add one signature-like short title
-```
-
-If an unrelated photograph could replace the source without materially changing recognition, model construction, support, strip silhouette, material, balance, colour, whitespace, and copy, the result does not belong to this Panel.
-
-## The visual contract
-
-- Preserve at least three source-specific cues across silhouette, proportion, pose, direction, action, structure, colour, material, or relation.
-- Build one dominant primary miniature and limited source-supported models, all seated on one long, narrow, lightweight horizontal floating strip.
-- Create depth through scale variation, layered overlap, and quieter foreground/background pieces; stay broadly centred without mechanical symmetry or a second focal point.
-- Show paper fibres, folds, cut marks, layered thickness, rough rims, and tiny handmade imperfections; reject slick plastic CGI.
-- Organise airy cool blues, ivory, pale beige, muted grey-green, and tiny muted-blush accents with soft macro light and generous pale negative space.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/052-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-052-prompt.en.md)
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 23 August 2026<br>
@@ -53,6 +33,26 @@ Aesthetic constraints and rejection rules live only in the [original source brie
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091500926721020375">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 052 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why this Skill exists
+
+The style is source-dependent, not a decorative preset. Its operative transformation is:
+
+```text
+lock identity, silhouette, pose, direction, and relation → preserve three cues → select one primary subject and limited supported elements → rebuild paper, cardstock, soft-clay, and thin-wood miniatures → place them on one long horizontal floating strip → establish scale depth, overlap, and calm balance → reveal authentic craft through macro light → retain airy cool blue and generous space → add one signature-like short title
+```
+
+If an unrelated photograph could replace the source without materially changing recognition, model construction, support, strip silhouette, material, balance, colour, whitespace, and copy, the result does not belong to this Panel.
+
+## The visual contract
+
+- Preserve at least three source-specific cues across silhouette, proportion, pose, direction, action, structure, colour, material, or relation.
+- Build one dominant primary miniature and limited source-supported models, all seated on one long, narrow, lightweight horizontal floating strip.
+- Create depth through scale variation, layered overlap, and quieter foreground/background pieces; stay broadly centred without mechanical symmetry or a second focal point.
+- Show paper fibres, folds, cut marks, layered thickness, rough rims, and tiny handmade imperfections; reject slick plastic CGI.
+- Organise airy cool blues, ivory, pale beige, muted grey-green, and tiny muted-blush accents with soft macro light and generous pale negative space.
+
+Aesthetic constraints and rejection rules live only in the [original source brief](references/052-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-052-prompt.en.md)
 
 ## The original brief is authoritative
 

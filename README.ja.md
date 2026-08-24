@@ -14,26 +14,6 @@
 
 元写真で最も識別しやすい主体と根拠のある少数の環境要素を、紙、カード紙、柔らかい粘土、薄い木片のミニチュアとして一本の細長い浮遊景観帯に再構成します。手仕事の細部、マクロ光、淡い大きな余白が上質なアートインスタレーションを作ります。
 
-## この Skill が必要な理由
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-lock identity, silhouette, pose, direction, and relation → preserve three cues → select one primary subject and limited supported elements → rebuild paper, cardstock, soft-clay, and thin-wood miniatures → place them on one long horizontal floating strip → establish scale depth, overlap, and calm balance → reveal authentic craft through macro light → retain airy cool blue and generous space → add one signature-like short title
-```
-
-無関係な写真に替えても識別、模型構造、補助要素、浮島の輪郭、素材、均衡、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## ビジュアル契約
-
-- シルエット、比率、姿勢、方向、動作、構造、色、素材、関係から元写真固有の手掛かりを三つ以上保つ。
-- 主役一つと根拠のある少数の補助模型を、一本の長く細く軽い横長浮遊景観帯に置く。
-- 尺度差、重なり、静かな前後景で奥行きを作り、概ね中央に置きつつ機械的対称や第二焦点を避ける。
-- 紙繊維、折り目、切断跡、層の厚み、粗い縁、小さな手作りの不完全さを見せ、滑らかなプラスチックCGを拒む。
-- 空気感のある寒色ブルー、象牙色、淡いベージュ、くすみ緑、ごく少量のくすみピンクを、柔らかなマクロ光と広い淡色余白で整える。
-
-美的制約と拒否項目は[原文プロンプト](references/052-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-052-prompt.en.md)
-
 ## 作例 · X より
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 2026年8月23日<br>
@@ -53,6 +33,26 @@ lock identity, silhouette, pose, direction, and relation → preserve three cues
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091500926721020375">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 052 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+## この Skill が必要な理由
+
+このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
+
+```text
+lock identity, silhouette, pose, direction, and relation → preserve three cues → select one primary subject and limited supported elements → rebuild paper, cardstock, soft-clay, and thin-wood miniatures → place them on one long horizontal floating strip → establish scale depth, overlap, and calm balance → reveal authentic craft through macro light → retain airy cool blue and generous space → add one signature-like short title
+```
+
+無関係な写真に替えても識別、模型構造、補助要素、浮島の輪郭、素材、均衡、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
+
+## ビジュアル契約
+
+- シルエット、比率、姿勢、方向、動作、構造、色、素材、関係から元写真固有の手掛かりを三つ以上保つ。
+- 主役一つと根拠のある少数の補助模型を、一本の長く細く軽い横長浮遊景観帯に置く。
+- 尺度差、重なり、静かな前後景で奥行きを作り、概ね中央に置きつつ機械的対称や第二焦点を避ける。
+- 紙繊維、折り目、切断跡、層の厚み、粗い縁、小さな手作りの不完全さを見せ、滑らかなプラスチックCGを拒む。
+- 空気感のある寒色ブルー、象牙色、淡いベージュ、くすみ緑、ごく少量のくすみピンクを、柔らかなマクロ光と広い淡色余白で整える。
+
+美的制約と拒否項目は[原文プロンプト](references/052-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-052-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 

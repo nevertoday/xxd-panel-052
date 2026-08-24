@@ -14,26 +14,6 @@
 
 원본에서 가장 알아보기 쉬운 주체와 근거 있는 소수의 환경 요소를 종이, 카드지, 부드러운 점토, 얇은 나무 조각 미니어처로 바꾸어 하나의 길고 가벼운 가로 부유 풍경띠 위에 놓습니다. 손작업 디테일, 매크로 빛, 넓고 옅은 여백이 고급 설치미술의 인상을 만듭니다.
 
-## 이 Skill이 필요한 이유
-
-이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
-
-```text
-lock identity, silhouette, pose, direction, and relation → preserve three cues → select one primary subject and limited supported elements → rebuild paper, cardstock, soft-clay, and thin-wood miniatures → place them on one long horizontal floating strip → establish scale depth, overlap, and calm balance → reveal authentic craft through macro light → retain airy cool blue and generous space → add one signature-like short title
-```
-
-무관한 사진으로 바꿔도 식별, 모델 구조, 보조 요소, 부유섬 윤곽, 재료, 균형, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
-
-## 시각적 원칙
-
-- 실루엣, 비례, 자세, 방향, 동작, 구조, 색, 재료, 관계에서 원본 고유 단서를 세 가지 이상 보존합니다.
-- 하나의 주인공과 근거 있는 소수의 보조 모델을 하나의 길고 좁고 가벼운 가로 부유 풍경띠에 놓습니다.
-- 크기 차이, 겹침, 조용한 전후경으로 깊이를 만들고 대체로 중앙에 두되 기계적 대칭이나 두 번째 초점을 피합니다.
-- 종이 섬유, 접힌 가장자리, 절단 자국, 층 두께, 거친 테두리, 작은 손작업 불완전함을 보여 주고 매끈한 플라스틱 CGI를 거부합니다.
-- 공기감 있는 차가운 파랑, 아이보리, 옅은 베이지, 탁한 녹색, 극소량의 탁한 분홍을 부드러운 매크로 빛과 넓고 옅은 여백으로 정리합니다.
-
-미적 제약과 금지 항목은 [원본 프롬프트](references/052-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-052-prompt.en.md)
-
 ## 예시 · X에서
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 2026년 8월 23일<br>
@@ -53,6 +33,26 @@ lock identity, silhouette, pose, direction, and relation → preserve three cues
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091500926721020375">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 052의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+## 이 Skill이 필요한 이유
+
+이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
+
+```text
+lock identity, silhouette, pose, direction, and relation → preserve three cues → select one primary subject and limited supported elements → rebuild paper, cardstock, soft-clay, and thin-wood miniatures → place them on one long horizontal floating strip → establish scale depth, overlap, and calm balance → reveal authentic craft through macro light → retain airy cool blue and generous space → add one signature-like short title
+```
+
+무관한 사진으로 바꿔도 식별, 모델 구조, 보조 요소, 부유섬 윤곽, 재료, 균형, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
+
+## 시각적 원칙
+
+- 실루엣, 비례, 자세, 방향, 동작, 구조, 색, 재료, 관계에서 원본 고유 단서를 세 가지 이상 보존합니다.
+- 하나의 주인공과 근거 있는 소수의 보조 모델을 하나의 길고 좁고 가벼운 가로 부유 풍경띠에 놓습니다.
+- 크기 차이, 겹침, 조용한 전후경으로 깊이를 만들고 대체로 중앙에 두되 기계적 대칭이나 두 번째 초점을 피합니다.
+- 종이 섬유, 접힌 가장자리, 절단 자국, 층 두께, 거친 테두리, 작은 손작업 불완전함을 보여 주고 매끈한 플라스틱 CGI를 거부합니다.
+- 공기감 있는 차가운 파랑, 아이보리, 옅은 베이지, 탁한 녹색, 극소량의 탁한 분홍을 부드러운 매크로 빛과 넓고 옅은 여백으로 정리합니다.
+
+미적 제약과 금지 항목은 [원본 프롬프트](references/052-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-052-prompt.en.md)
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
