@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> 종이 미니어처 · 가로 부유섬 · 진짜 손맛 · 공기감 있는 차가운 파랑 · 넓은 여백
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-원본에서 가장 알아보기 쉬운 주체와 근거 있는 소수의 환경 요소를 종이, 카드지, 부드러운 점토, 얇은 나무 조각 미니어처로 바꾸어 하나의 길고 가벼운 가로 부유 풍경띠 위에 놓습니다. 손작업 디테일, 매크로 빛, 넓고 옅은 여백이 고급 설치미술의 인상을 만듭니다.
-
 ## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 2026년 8월 23일<br>
-> GPT2 × 종이 오리기 × 담백한 우아함 × 미학 프롬프트 × VOL.052
 
 <table>
   <tr>
@@ -32,9 +27,16 @@
   </tr>
 </table>
 
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 2026년 8월 23일<br>
+> GPT2 × 종이 오리기 × 담백한 우아함 × 미학 프롬프트 × VOL.052
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091500926721020375">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 052의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+원본에서 가장 알아보기 쉬운 주체와 근거 있는 소수의 환경 요소를 종이, 카드지, 부드러운 점토, 얇은 나무 조각 미니어처로 바꾸어 하나의 길고 가벼운 가로 부유 풍경띠 위에 놓습니다. 손작업 디테일, 매크로 빛, 넓고 옅은 여백이 고급 설치미술의 인상을 만듭니다.
+
+종이 미니어처 · 가로 부유섬 · 진짜 손맛 · 공기감 있는 차가운 파랑 · 넓은 여백
 
 <!-- xxd-panel-benefit:start -->
 ## 빠른 판단: XXD Panel 052이 나에게 맞을까요?

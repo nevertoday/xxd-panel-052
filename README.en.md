@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> PAPER-CRAFT MINIATURE · HORIZONTAL FLOATING STRIP · HANDMADE MATERIAL · AIRY COOL BLUE · GENEROUS SPACE
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-Rebuild the most recognisable source subject and limited supported environment as paper, cardstock, soft-clay, and thin-wood miniatures on one long floating landscape strip. Authentic craft detail, intimate macro light, and pale open space create a premium art-installation presence.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 23 August 2026<br>
-> GPT2 × paper cut × quiet elegance × aesthetic prompt × VOL.052
 
 <table>
   <tr>
@@ -32,9 +27,16 @@ Rebuild the most recognisable source subject and limited supported environment a
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 23 August 2026<br>
+> GPT2 × paper cut × quiet elegance × aesthetic prompt × VOL.052
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091500926721020375">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 052 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+Rebuild the most recognisable source subject and limited supported environment as paper, cardstock, soft-clay, and thin-wood miniatures on one long floating landscape strip. Authentic craft detail, intimate macro light, and pale open space create a premium art-installation presence.
+
+PAPER-CRAFT MINIATURE · HORIZONTAL FLOATING STRIP · HANDMADE MATERIAL · AIRY COOL BLUE · GENEROUS SPACE
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 052 right for you?

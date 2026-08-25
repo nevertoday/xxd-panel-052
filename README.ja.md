@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> ペーパークラフト · 横長の浮島 · 本物の手仕事 · 空気感のある寒色ブルー · 広い余白
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-元写真で最も識別しやすい主体と根拠のある少数の環境要素を、紙、カード紙、柔らかい粘土、薄い木片のミニチュアとして一本の細長い浮遊景観帯に再構成します。手仕事の細部、マクロ光、淡い大きな余白が上質なアートインスタレーションを作ります。
-
 ## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 2026年8月23日<br>
-> GPT2 × 切り紙 × 素雅 × 美学プロンプト × VOL.052
 
 <table>
   <tr>
@@ -32,9 +27,16 @@
   </tr>
 </table>
 
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 2026年8月23日<br>
+> GPT2 × 切り紙 × 素雅 × 美学プロンプト × VOL.052
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091500926721020375">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 052 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+元写真で最も識別しやすい主体と根拠のある少数の環境要素を、紙、カード紙、柔らかい粘土、薄い木片のミニチュアとして一本の細長い浮遊景観帯に再構成します。手仕事の細部、マクロ光、淡い大きな余白が上質なアートインスタレーションを作ります。
+
+ペーパークラフト · 横長の浮島 · 本物の手仕事 · 空気感のある寒色ブルー · 広い余白
 
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 052 はあなたに合う？

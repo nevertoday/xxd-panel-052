@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<strong>简体中文</strong> 纸艺微缩 · 横向浮岛 · 真实手作 · 空气感冷蓝 · 大量留白
+<strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-把源照片中最具识别度的主体和少量有依据的环境元素，重构为坐落于修长横向悬浮景观带上的纸、卡纸、软陶与薄木微缩模型；真实手作细节、微距光影与大面积浅色留白共同形成高级艺术装置感。
-
 ## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 2026 年 8 月 23 日<br>
-> GPT2 × 剪纸 × 素雅 × 美学提示词 × VOL.052
 
 <table>
   <tr>
@@ -32,9 +27,16 @@
   </tr>
 </table>
 
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091500926721020375) · 2026 年 8 月 23 日<br>
+> GPT2 × 剪纸 × 素雅 × 美学提示词 × VOL.052
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091500926721020375">查看原推文与完整提示词 →</a></p>
 
 这些样张用于展示 052 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
+把源照片中最具识别度的主体和少量有依据的环境元素，重构为坐落于修长横向悬浮景观带上的纸、卡纸、软陶与薄木微缩模型；真实手作细节、微距光影与大面积浅色留白共同形成高级艺术装置感。
+
+纸艺微缩 · 横向浮岛 · 真实手作 · 空气感冷蓝 · 大量留白
 
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 052 适合你吗？
