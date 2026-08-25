@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> 종이 미니어처 · 가로 부유섬 · 진짜 손맛 · 공기감 있는 차가운 파랑 · 넓은 여백
 
+</div>
+
 원본에서 가장 알아보기 쉬운 주체와 근거 있는 소수의 환경 요소를 종이, 카드지, 부드러운 점토, 얇은 나무 조각 미니어처로 바꾸어 하나의 길고 가벼운 가로 부유 풍경띠 위에 놓습니다. 손작업 디테일, 매크로 빛, 넓고 옅은 여백이 고급 설치미술의 인상을 만듭니다.
 
 ## 예시 · X에서
@@ -247,5 +249,4 @@ Knowledge Planet과 회원 프롬프트 라이브러리는 연 CNY 699 한 번�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> ペーパークラフト · 横長の浮島 · 本物の手仕事 · 空気感のある寒色ブルー · 広い余白
 
+</div>
+
 元写真で最も識別しやすい主体と根拠のある少数の環境要素を、紙、カード紙、柔らかい粘土、薄い木片のミニチュアとして一本の細長い浮遊景観帯に再構成します。手仕事の細部、マクロ光、淡い大きな余白が上質なアートインスタレーションを作ります。
 
 ## 作例 · X より
@@ -247,5 +249,4 @@ Knowledge Planet と会員プロンプトライブラリは年額699元の一回
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

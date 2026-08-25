@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> PAPER-CRAFT MINIATURE · HORIZONTAL FLOATING STRIP · HANDMADE MATERIAL · AIRY COOL BLUE · GENEROUS SPACE
 
+</div>
+
 Rebuild the most recognisable source subject and limited supported environment as paper, cardstock, soft-clay, and thin-wood miniatures on one long floating landscape strip. Authentic craft detail, intimate macro light, and pale open space create a premium art-installation presence.
 
 ## Samples · From X
@@ -247,5 +249,4 @@ Chinese-language support may use Xiaoxiaodong's own WeChat or Alipay reward code
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

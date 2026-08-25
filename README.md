@@ -12,6 +12,8 @@
 
 <strong>简体中文</strong> 纸艺微缩 · 横向浮岛 · 真实手作 · 空气感冷蓝 · 大量留白
 
+</div>
+
 把源照片中最具识别度的主体和少量有依据的环境元素，重构为坐落于修长横向悬浮景观带上的纸、卡纸、软陶与薄木微缩模型；真实手作细节、微距光影与大面积浅色留白共同形成高级艺术装置感。
 
 ## 样张 · 来自 X
@@ -250,5 +252,4 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 <td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png" alt="XXD Alipay reward" width="180"></a><br><strong>Alipay</strong></td>
 </tr></table>
 
-</div>
 </div>

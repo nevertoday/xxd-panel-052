@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> مجسّم ورقي · شريط أفقي عائم · مادة يدوية أصيلة · أزرق بارد هوائي · فراغ واسع
 
+</div>
+
 يُعاد بناء أكثر موضوعات المصدر تميّزاً والعناصر البيئية القليلة المدعومة كمجسّمات من الورق والبطاقات والطين اللين والخشب الرقيق فوق شريط منظر أفقي طويل عائم. وتصنع تفاصيل اليد وضوء الماكرو والفراغ الفاتح الواسع حضور تركيب فني راقٍ.
 
 ## النماذج · من X
@@ -247,5 +249,4 @@ XXD هو اختصار اسم علامة Xiaoxiaodong. أنشأ المشروع و
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>
