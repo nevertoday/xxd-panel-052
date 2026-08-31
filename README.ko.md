@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 052
+# 🦁 XXD Panel 052｜종이공예 미니어처 섬
 
 ### 손으로 만든 미니어처 세계를 하나의 풍경선 위에 띄우기
 

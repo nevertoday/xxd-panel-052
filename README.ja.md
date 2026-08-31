@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 052
+# 🦁 XXD Panel 052｜ペーパークラフトのミニ島
 
 ### 手作りのミニチュア世界を一本の風景線に浮かべる
 

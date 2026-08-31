@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 052
+# 🦁 XXD Panel 052｜纸艺微缩岛
 
 ### 让手工微缩世界轻轻悬浮在一条风景线上
 

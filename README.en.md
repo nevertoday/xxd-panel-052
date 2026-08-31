@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 052
+# 🦁 XXD Panel 052｜Paper Miniature Island
 
 ### Let a handcrafted miniature world float along one landscape line
 
