@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 052 project banner" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 052｜종이공예 미니어처 섬
