@@ -82,6 +82,15 @@
 視覚方向を先に確認したい場合は、上の作例をご覧ください。準備ができたら[使い始める](#使い始める)へ進めます。全モードと引数は折りたたみ資料から必要に応じて確認できます。
 <!-- xxd-human-intro:end -->
 
+## 使い方のコツ
+
+- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
+- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
+- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
+- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
+- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
+- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
+
 ## 原始プロンプト · 5言語
 
 [統一された多言語ディレクトリを開く](references/original-prompt/): [簡体字中国語原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -98,26 +107,6 @@
 | **入力素材をどう尊重するか** | 入力に固有の人物・物・関係・構造・事実を識別可能なまま保ちます。スタイル変換は視覚言語を再構成するもので、内容を無関係なテンプレートへ置き換えません。 |
 | **利用できる形** | 上下、左右、デザインのみ、4端末の壁紙を、複数比率または正確なサイズで作れます。納品形式が変わっても、この Panel のスタイル固有性は薄まりません。 |
 <!-- xxd-panel-benefit:end -->
-
-## 入力から独自の完成作品が生まれるまで
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-lock identity, silhouette, pose, direction, and relation → preserve three cues → select one primary subject and limited supported elements → rebuild paper, cardstock, soft-clay, and thin-wood miniatures → place them on one long horizontal floating strip → establish scale depth, overlap, and calm balance → reveal authentic craft through macro light → retain airy cool blue and generous space → add one signature-like short title
-```
-
-無関係な写真に替えても識別、模型構造、補助要素、浮島の輪郭、素材、均衡、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## 完成作品で見分けやすいスタイル特性
-
-- シルエット、比率、姿勢、方向、動作、構造、色、素材、関係から元写真固有の手掛かりを三つ以上保つ。
-- 主役一つと根拠のある少数の補助模型を、一本の長く細く軽い横長浮遊景観帯に置く。
-- 尺度差、重なり、静かな前後景で奥行きを作り、概ね中央に置きつつ機械的対称や第二焦点を避ける。
-- 紙繊維、折り目、切断跡、層の厚み、粗い縁、小さな手作りの不完全さを見せ、滑らかなプラスチックCGを拒む。
-- 空気感のある寒色ブルー、象牙色、淡いベージュ、くすみ緑、ごく少量のくすみピンクを、柔らかなマクロ光と広い淡色余白で整える。
-
-美的制約と拒否項目は[原文プロンプト](references/original-prompt/zh-CN.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-052-prompt.en.md)
 
 <details>
 <summary><strong>全機能と引数（必要なときに開く）</strong></summary>
