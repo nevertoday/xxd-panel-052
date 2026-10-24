@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-052"
-  short_description: "Create Panel 052 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-052; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "纸艺微缩岛：把照片变成一条悬浮风景线上的手工纸艺微缩世界，素雅安静"
+  default_prompt: "Use $xxd-panel-052 to turn my photo into Paper Miniature Island artwork."
 
 policy:
   allow_implicit_invocation: true

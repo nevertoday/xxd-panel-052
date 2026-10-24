@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-052
-description: "Create XXD Panel 052 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-052 or requests the exact Panel 052 style."
+description: "XXD Panel 052｜Paper Miniature Island: turns the photo into a small handcrafted world of paper, card, soft clay and thin wood that floats along one narrow horizontal landscape line — the main subject largest, with a few related trees, paths, water, lamps, vehicles, figures or birds kept smaller and quieter, layered for depth. Paper fibres, folds, cut edges and small handmade flaws catch soft, diffused macro-style light on a soft white background with wide whitespace, in muted pale blues and sky blue with ivory, cream, sage and a hint of greyed pink. A short title in small, slightly handwritten lettering sits under the strip or curves along it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-052 or asks for a floating paper diorama, cut-paper miniature world or handmade landscape strip from a photo."
 ---
 
 # XXD Panel 052

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 052｜Paper Miniature Island: turns the photo into a small handcrafted world of paper, card, soft clay and thin wood that floats along one narrow horizontal landscape line — the main subject largest, with a few related trees, paths, water, lamps, vehicles, figures or birds kept smaller and quieter, layered for depth. Paper fibres, folds, cut edges and small handmade flaws catch soft, diffused macro-style light on a soft white background with wide whitespace, in muted pale blues and sky blue with ivory, cream, sage and a hint of greyed pink. A short title in small, slightly handwritten lettering sits under the strip or curves along it. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-052 or asks for a floating paper diorama, cut-paper miniature world or handmade landscape strip from a photo.",
+  "short_description": "纸艺微缩岛：把照片变成一条悬浮风景线上的手工纸艺微缩世界，素雅安静",
+  "zh-CN": {
+    "name": "纸艺微缩岛",
+    "tagline": "让照片里的世界变成手工纸艺微缩场景，轻轻悬浮在一条风景线上。",
+    "look": "照片被缩成一条横向、狭长、悬浮的微缩风景线：主体用纸张、卡纸、软陶和薄木片手工做成，体量最大；旁边几棵树、一段路、一片水、一盏灯或几个小人更小更轻，前后层叠出纵深。纸纤维、折边、切口和细小的手作误差在柔和漫射光下清晰可见，有微距摄影般的亲近感。背景柔和白色、大片留白，颜色素雅：浅粉蓝、雾蓝、天空蓝，配象牙白、奶油白、鼠尾草绿和一点灰粉。一个简短标题用小而略带手写感的字放在风景线下方，也可以沿基座轻轻弯曲。",
+    "traits": ["素雅剪纸", "微缩世界", "横向风景线", "悬浮", "手工"],
+    "good": [
+      "有前后层次、横向展开的场景：海边一排小屋、河边小镇、田野里的风车",
+      "主体加简单环境的照片：路边的电车站、湖边的帐篷、山坡上的教堂",
+      "想做成横幅、旅行纪念海报或安静壁纸的照片"
+    ],
+    "poor": [
+      "以竖向或高耸主体为全部重点的照片：摩天楼特写、高塔仰拍，难以放进一条横向风景线",
+      "人很多、元素很满的照片，微缩世界会显得拥挤",
+      "想要塑料感 3D、玩具感、过度可爱或电商产品展示的效果"
+    ]
+  },
+  "en": {
+    "name": "Paper Miniature Island",
+    "tagline": "Turns the world in your photo into a handmade paper miniature floating gently along one landscape line.",
+    "look": "The photo is condensed into one narrow horizontal landscape line that floats in the frame: the main subject, handmade from paper, card, soft clay and thin wood, is the largest piece, while a few trees, a stretch of road, some water, a lamp or a few tiny figures are smaller and lighter, layered front to back for depth. Paper fibres, folds, cut edges and small handmade flaws show clearly in soft, diffused light, close as a macro photograph. The background is soft white with wide whitespace, and the colours are muted: pale blue, mist blue and sky blue with ivory, cream, sage green and a hint of greyed pink. A short title in small, slightly handwritten lettering sits under the strip or curves gently along the base.",
+    "traits": ["Muted cut paper", "Miniature world", "Horizontal landscape line", "Floating", "Handmade"],
+    "good": [
+      "Scenes that spread sideways with depth: a row of seaside huts, a riverside town, a windmill in fields",
+      "A subject with a simple setting: a tram stop by the road, a tent by a lake, a chapel on a hillside",
+      "Photos you want as a banner, a travel keepsake poster or a quiet wallpaper"
+    ],
+    "poor": [
+      "Photos built entirely around a tall vertical subject, such as a skyscraper close-up or a tower shot from below, which do not fit one horizontal strip",
+      "Crowded photos full of elements, which make the miniature world cramped",
+      "Requests for plastic 3D, toy looks, excessive cuteness or product-shop displays"
+    ]
+  },
+  "ja": {
+    "name": "ペーパークラフトのミニ島",
+    "tagline": "写真の世界を手作りの紙のミニチュアにして、一本の風景の線の上にそっと浮かべます。",
+    "look": "写真は、画面に浮かぶ細長い横一本の風景の線に凝縮されます。主役は紙、厚紙、樹脂粘土、薄い木片で手作りされていちばん大きく、そばの木々、道の一部、水、灯り、小さな人々はより小さく控えめで、前後に重なって奥行きをつくります。紙の繊維、折り目、切り口、小さな手作りのずれが、やわらかな拡散光の中ではっきり見え、マクロ写真のような近さがあります。背景は柔らかな白で余白は広く、色は落ち着いた淡いピンクがかった青、霧のような青、空色に、アイボリー、生成り、セージグリーン、少しのくすんだピンク。短いタイトルが小さく少し手書き風の文字で風景の線の下に入り、台座に沿って軽く曲がることもあります。",
+    "traits": ["素朴な切り紙", "ミニチュアの世界", "横長の風景線", "浮遊", "手作り"],
+    "good": [
+      "奥行きがあり横に広がる場面：海辺に並ぶ小屋、川沿いの町、畑の風車",
+      "主役とシンプルな環境の写真：道端の路面電車の停留所、湖畔のテント、丘の上の教会",
+      "横長のバナー、旅の記念ポスター、静かな壁紙にしたい写真"
+    ],
+    "poor": [
+      "縦に高い主役だけが見どころの写真：超高層ビルのアップ、見上げた塔（横一本の風景線に収まりにくいです）",
+      "人や要素の多い写真（ミニチュアの世界が窮屈になります）",
+      "プラスチック感のある 3D、玩具風、かわいすぎる仕上がり、通販の商品展示を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "종이공예 미니어처 섬",
+    "tagline": "사진 속 세계를 손으로 만든 종이 미니어처로 바꿔 하나의 풍경선 위에 살며시 띄웁니다.",
+    "look": "사진은 화면에 떠 있는 가늘고 긴 가로 풍경선 하나로 압축됩니다. 종이, 판지, 소프트 점토, 얇은 나무 조각으로 손수 만든 주인공이 가장 크고, 곁의 나무 몇 그루, 길 한 토막, 물, 등불, 작은 사람들은 더 작고 가볍게 앞뒤로 겹쳐 깊이를 만듭니다. 종이 섬유, 접힌 자국, 자른 단면, 작은 수작업 오차가 부드러운 확산광 아래 또렷이 보여 접사 사진 같은 친밀함이 있습니다. 배경은 부드러운 흰색에 여백이 넓고, 색은 차분한 연분홍빛 파랑, 안개빛 파랑, 하늘색에 아이보리, 크림색, 세이지 그린, 약간의 회분홍을 씁니다. 짧은 제목이 작고 살짝 손글씨 같은 글자로 풍경선 아래 놓이거나 받침을 따라 살짝 휘어집니다.",
+    "traits": ["차분한 종이 오리기", "미니어처 세계", "가로 풍경선", "떠 있음", "수작업"],
+    "good": [
+      "깊이가 있고 옆으로 펼쳐지는 장면: 바닷가에 늘어선 오두막, 강변 마을, 들판의 풍차",
+      "주인공과 단순한 환경이 있는 사진: 길가의 전차 정류장, 호숫가 텐트, 언덕 위 교회",
+      "가로 배너, 여행 기념 포스터, 조용한 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "높이 솟은 세로 주인공만이 핵심인 사진: 초고층 빌딩 클로즈업, 올려다본 탑(가로 풍경선 하나에 담기 어렵습니다)",
+      "사람이나 요소가 많은 사진(미니어처 세계가 비좁아 보입니다)",
+      "플라스틱 같은 3D, 장난감 느낌, 지나친 귀여움, 쇼핑몰 제품 진열 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "جزيرة مصغّرة من فن الورق",
+    "tagline": "يحوّل العالم في صورتك إلى عالم ورقي مصغّر مصنوع يدوياً يطفو بهدوء على خط منظر واحد.",
+    "look": "تُختصر الصورة في خط منظر أفقي ضيق واحد يطفو في الإطار: الموضوع الرئيسي، المصنوع يدوياً من الورق والكرتون والصلصال الطري والخشب الرقيق، هو أكبر القطع، بينما تأتي بضع أشجار وجزء من طريق وقليل من الماء ومصباح أو أشخاص صغار أصغر وأخف، متراكبة من الأمام إلى الخلف لتصنع العمق. تظهر ألياف الورق والطيّات والحواف المقصوصة والهفوات اليدوية الصغيرة بوضوح في ضوء ناعم منتشر، بقرب يشبه التصوير الماكرو. الخلفية بيضاء ناعمة مع فراغ واسع، والألوان هادئة: أزرق وردي فاتح وأزرق ضبابي وأزرق سماوي مع العاجي والكريمي والأخضر المريمي ولمسة من الوردي الرمادي. يستقر عنوان قصير بحروف صغيرة تشبه خط اليد تحت الشريط أو ينحني برفق على امتداد القاعدة.",
+    "traits": ["ورق مقصوص هادئ", "عالم مصغّر", "خط منظر أفقي", "طفو", "صنع يدوي"],
+    "good": [
+      "مشاهد تمتد أفقياً ولها عمق: صف أكواخ على البحر، بلدة على نهر، طاحونة هواء في الحقول",
+      "موضوع مع محيط بسيط: موقف ترام على الطريق، خيمة قرب بحيرة، كنيسة صغيرة على تلة",
+      "صور تريدها لافتة عريضة أو ملصق تذكاري لرحلة أو خلفية هادئة"
+    ],
+    "poor": [
+      "صور يقوم كل جمالها على موضوع عمودي شاهق، كلقطة قريبة لناطحة سحاب أو برج مصوّر من الأسفل، لا تتسع لشريط أفقي واحد",
+      "صور مزدحمة بالعناصر تجعل العالم المصغّر مكتظاً",
+      "طلب مجسمات بلاستيكية أو طابع الألعاب أو لطافة مبالغ فيها أو عرض منتجات المتاجر"
+    ]
+  }
+}
